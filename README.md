@@ -1,3 +1,3 @@
 # shado_fight
 
-Author = Harshad Patil
+Author - Harshad Patil
